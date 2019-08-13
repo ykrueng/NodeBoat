@@ -1,0 +1,22 @@
+{
+  "name": "nodeboat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ykrueng/NodeBoat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ykrueng/NodeBoat/issues"
+  },
+  "homepage": "https://github.com/ykrueng/NodeBoat#readme",
+  "dependencies": {
+    "johnny-five": "^1.3.0"
+  }
+}
